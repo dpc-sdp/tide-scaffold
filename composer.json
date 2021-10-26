@@ -14,7 +14,7 @@
   "conflict": {
     "drupal/drupal": "*"
   },
-  "description": "Drupal 8 site for SDP reference site",
+  "description": "Drupal Tide scaffold - part of SDP",
   "extra": {
     "composer-exit-on-patch-failure": true,
     "drupal-scaffold": {
@@ -78,7 +78,7 @@
   },
   "license": "proprietary",
   "minimum-stability": "dev",
-  "name": "dpc-sdp/reference-sdp",
+  "name": "dpc-sdp/tide-scaffold",
   "prefer-stable": true,
   "repositories": {
     "progress-tracker": {
